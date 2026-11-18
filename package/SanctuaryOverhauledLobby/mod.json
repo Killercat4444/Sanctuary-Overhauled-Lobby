@@ -1,0 +1,18 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Remmyboy/sanctuary-mods/main/docs/mod.schema.json",
+  "id": "com.sanctuary.overhauled-lobby",
+  "name": "Sanctuary Overhauled Lobby",
+  "version": "1.2.0",
+  "author": "Killercat4444",
+  "description": "One-folder lobby: always-available personal UI, presets and host tools; optional synchronized Overhauled mode and Unit Restrictions. Kind intentionally omitted for Mod Loader 1.5 / Mod API 1.10 mixed-folder behavior.",
+  "gameVersion": "0.0.1.21.1",
+  "apiVersion": 1,
+  "luaRoot": "lua",
+  "options": [
+    {"key":"noLand","label":"No land units","type":"toggle","default":false},
+    {"key":"noAir","label":"No air units","type":"toggle","default":false},
+    {"key":"noNaval","label":"No naval units","type":"toggle","default":false},
+    {"key":"noExperimental","label":"No experimentals","type":"toggle","default":false},
+    {"key":"units","label":"Restricted units","type":"units"}
+  ]
+}
