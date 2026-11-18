@@ -23,3 +23,10 @@ Download the installer ZIP from [Releases](https://github.com/Killercat4444/Sanc
 ## Report an issue
 
 Open an [issue](https://github.com/Killercat4444/Sanctuary-Overhauled-Lobby/issues/new) and include your Sanctuary, Mod Manager, and lobby versions, the lobby mode, and steps to reproduce. Remove personal information from any logs or screenshots before posting.
+
+
+## Build and contribute
+
+The C# plugin is in [src](src/), and the mod manifest and Lua hooks are in [package](package/SanctuaryOverhauledLobby/). See [CONTRIBUTING.md](CONTRIBUTING.md) for build instructions and [CHANGELOG.md](CHANGELOG.md) for version history.
+
+The mod source is available under the [MIT license](LICENSE). Game and dependency binaries are supplied by your local Playtest installation.
