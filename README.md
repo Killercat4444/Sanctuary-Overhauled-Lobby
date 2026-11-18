@@ -22,7 +22,7 @@ Download the installer ZIP from [Releases](https://github.com/Killercat4444/Sanc
 
 ## Known limitations
 
-- **Modded maps:** Map overlays display correctly, but Auto Teams does not work on modded maps.
+- **Modded maps:** Player-position markers may appear in the wrong places on the map preview. Auto Teams does not work on modded maps.
 - **Player limit:** v1.2.0 supports up to eight players. Support for larger lobbies is planned for a future release.
 
 ## Screenshots
