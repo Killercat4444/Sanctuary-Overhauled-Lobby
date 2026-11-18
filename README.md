@@ -10,7 +10,7 @@ Download the installer ZIP from [Releases](https://github.com/Killercat4444/Sanc
 | --- | --- |
 | Sanctuary: Shattered Sun Playtest | 0.0.1.21.1 |
 | Remmy’s Mod Manager | 0.17.0 |
-| SCOM | Separate build |
+
 
 ## Features
 
