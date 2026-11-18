@@ -20,6 +20,28 @@ Download the installer ZIP from [Releases](https://github.com/Killercat4444/Sanc
 - **Lobby presets** let you save, rename, update, and reuse setups.
 - **Unit restrictions** let you block land, air, naval, or experimental units, or select individual units. Enabled restrictions require the synchronized gameplay component.
 
+## Screenshots
+
+**Lobby overview** · Player slots, map preview, host controls, and match settings.
+
+![Lobby overview in Vanilla mode, with player slots and The Forge map preview](docs/screenshots/lobby-overview.png)
+
+**Faction selection** · The faction picker sits beside the separate commander column.
+
+![Faction picker showing Random, EDA, Chosen, and Guard next to the commander column](docs/screenshots/faction-selection.png)
+
+| Match settings and lobby presets | Player color picker |
+| --- | --- |
+| ![Match settings and controls for loading, saving, deleting, and renaming presets](docs/screenshots/match-settings-and-presets.png) | ![Player color picker showing named color swatches](docs/screenshots/player-color-picker.png) |
+
+**Unit restrictions** · Category toggles and a list of individual units grouped by faction and tech tier.
+
+![Restricted Units panel with No Air enabled and Tech 1 units listed by faction](docs/screenshots/unit-restrictions.png)
+
+## Credits
+
+The Unit Restrictions manager is a modified version of [Remmyboy’s Unit Restrictions mod](https://github.com/Remmyboy/sanctuary-mods).
+
 ## Report an issue
 
 Open an [issue](https://github.com/Killercat4444/Sanctuary-Overhauled-Lobby/issues/new) and include your Sanctuary, Mod Manager, and lobby versions, the lobby mode, and steps to reproduce. Remove personal information from any logs or screenshots before posting.
