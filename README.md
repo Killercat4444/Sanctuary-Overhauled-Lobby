@@ -20,6 +20,11 @@ Download the installer ZIP from [Releases](https://github.com/Killercat4444/Sanc
 - **Lobby presets** let you save, rename, update, and reuse setups.
 - **Unit restrictions** let you block land, air, naval, or experimental units, or select individual units. Enabled restrictions require the synchronized gameplay component.
 
+## Known limitations
+
+- **Modded maps:** Map overlays display correctly, but Auto Teams does not work on modded maps.
+- **Player limit:** v1.2.0 supports up to eight players. Support for larger lobbies is planned for a future release.
+
 ## Screenshots
 
 **Lobby overview** · Player slots, map preview, host controls, and match settings.
