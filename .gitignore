@@ -1,0 +1,8 @@
+/build/
+*.dll
+*.pdb
+*.zip
+*.log
+presets.ini*
+settings.ini
+.vs/
